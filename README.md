@@ -56,6 +56,7 @@ Displays key KPIs, daily order trends, category & size-wise sales performance.
 
 ### 🔹 **Page 2 – Top & Bottom Performers**
 Showcases the best and least performing pizzas by revenue, quantity, and orders.  
+[Pizza Sales Dashboard Insights](snapshot%20of%20Pizza%20analytics%20dashboard%202.png)
 
 
 ---
